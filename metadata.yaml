@@ -1,0 +1,46 @@
+_repo: Canada_62154
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Sandham, Henry
+    alias: Sandham, H. (Henry)
+    birthdate: 1842
+    deathdate: 1910
+    gutenberg_agent_id: '41047'
+    url: http://www.gutenberg.org/2009/agents/41047
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Sandham
+creator:
+  author:
+    agent_name: Willson, Beckles
+    alias: Willson, Henry Beckles
+    birthdate: 1869
+    deathdate: 1942
+    gutenberg_agent_id: '38444'
+    url: http://www.gutenberg.org/2009/agents/38444
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Beckles_Willson
+description: ''
+gutenberg_issued: '2020-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62154'
+  lccn: '15025669'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Romance of empire series
+subjects:
+- !lcsh 'Canada -- History -- To 1763 (New France)'
+- !lcc 'F1001'
+- !lcsh 'Canada -- History -- 1763-1867'
+- GITenberg
+tableOfContents: Cartier unfurls the flag of the lilies -- Poutraincourt goes forth
+  to Arcadia -- Of the doings of gallant Champlain -- Romance of the two De la Tours
+  -- The founding of Montreal -- The fury of the Iroquois -- Strange doings at Port
+  Royal -- The coming of Frontenac -- "Quebec for King Louis" -- King Louis builds
+  a mighty fort -- How Louisburg surrendered and was given back -- The Acadians are
+  banished from Acadia -- Terrible fights over the border -- How the gallant Wolfe
+  took Quebec -- Lévis and the nobles retire to Old France -- The coming of the Loyalists
+  -- How Canada's enemy was foiled -- Traitors, redcoats, and redskins.
+title: Canada
+url: http://www.gutenberg.org/ebooks/62154
