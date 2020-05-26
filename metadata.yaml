@@ -1,5 +1,5 @@
 _repo: Canada_62154
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Sandham, Henry
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '41047'
     url: http://www.gutenberg.org/2009/agents/41047
     wikipedia: https://en.wikipedia.org/wiki/Henry_Sandham
+covers:
+- cover_type: archival
+  image_path: 62154-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Willson, Beckles
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38444
     wikipedia: https://en.wikipedia.org/wiki/Henry_Beckles_Willson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62154#Canada
 gutenberg_issued: '2020-05-16'
 gutenberg_type: Text
 identifiers:
